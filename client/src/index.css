@@ -1,0 +1,211 @@
+
+
+body {
+    background-color: lightslategray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#createStatus {
+    color: red;
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.navbar-brand{
+    text-align: center;
+    width: 150px;
+    height: 50px;
+    font-size: xx-large;
+}
+
+#home{
+    justify-content: center;
+    top: 50px;
+    font-size:x-large
+}
+
+#home #home-text{
+    display: block;
+    visibility: hidden;
+    width: 80px;
+    height: 28px;
+    font-size: x-small;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+}
+
+#home:hover #home-text{
+    visibility: visible;
+}
+
+#create-acct{
+    justify-content: center;
+    top: 50px;
+    font-size:x-large
+}
+
+#create-acct #create-acct-text{
+    display: block;
+    visibility: hidden;
+    width: 80px;
+    height: 28px;
+    font-size: x-small;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+}
+
+#create-acct:hover #create-acct-text{
+    visibility: visible;
+}
+
+#login{
+    justify-content: center;
+    top: 50px;
+    font-size:x-large
+}
+
+#login #login-text{
+    display: block;
+    visibility: hidden;
+    width: 80px;
+    height: 28px;
+    font-size: x-small;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+}
+
+#login:hover #login-text{
+    visibility: visible;
+}
+
+#deposit{
+    justify-content: center;
+    top: 50px;
+    font-size:x-large;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#deposit #deposit-text{
+    display: block;
+    visibility: hidden;
+    width: 80px;
+    height: 28px;
+    font-size: x-small;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+}
+
+#deposit:hover #deposit-text{
+    visibility: visible;
+}
+
+#transfer{
+    justify-content: center;
+    top: 50px;
+    font-size:x-large;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#transfer #transfer-text{
+    display: block;
+    visibility: hidden;
+    width: 80px;
+    height: 28px;
+    font-size: x-small;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+}
+
+#transfer:hover #transfer-text{
+    visibility: visible;
+}
+
+#withdraw{
+    justify-content: center;
+    top: 50px;
+    font-size:x-large
+}
+
+#withdraw #withdraw-text{
+    display: block;
+    visibility: hidden;
+    width: 80px;
+    height: 28px;
+    font-size: x-small;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+}
+
+#withdraw:hover #withdraw-text{
+    visibility: visible;
+}
+
+#balance{
+    justify-content: center;
+    top: 50px;
+    font-size:x-large
+}
+
+#balance #balance-text{
+    display: block;
+    visibility: hidden;
+    width: 80px;
+    height: 40px;
+    font-size: x-small;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+}
+
+#balance:hover #balance-text{
+    visibility: visible;
+}
+
+#all-data{
+    justify-content: center;
+    top: 50px;
+    font-size:x-large
+}
+
+#all-data #all-data-text{
+    display: block;
+    visibility: hidden;
+    width: 80px;
+    height: 40px;
+    font-size: x-small;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+}
+
+#all-data:hover #all-data-text{
+    visibility: visible;
+}
